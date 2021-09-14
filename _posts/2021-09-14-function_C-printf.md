@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: 
 title:  "C언어 built-in function 1. printf 함수"
 ---
 
