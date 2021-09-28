@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "정우영"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/question man.png"
   bio              : "용인한국외대부고 2학년"
   location         : "대한민국, 부산"
   email            : "bc1092@naver.com"
