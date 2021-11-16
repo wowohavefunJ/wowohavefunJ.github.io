@@ -1,6 +1,10 @@
 ---
 layout: single
 title:  "C언어 built-in function 1. printf 함수"
+toc: true
+toc_sticky: true
+toc_label: "예제"
+categories: "c언어"
 ---
 
 # 안녕하세요!
@@ -14,9 +18,13 @@ printf 함수는 원하는 값 또는 문자(열)를 출력할 때 사용합니�
 문자열(string)은 " "로 표현합니다.*여기서 ''는 단일 문자를 표현하는 것이니 주의합니다.*
 
 그러면 출력해봅시다.
-
-printf("Hello World")
-
+~~~c
+#include <stdio.h>
+int main(){
+printf("Hello World");
+return 0;
+}
+~~~
 **ex2. 정수 출력하기**
 %d 연산자를 사용하면 프린트문에서 원하는 값은 %d 자리에 출력이 가능합니다.
 
