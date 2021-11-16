@@ -1,5 +1,5 @@
 ---
-layout: "single"
+layout: single
 title:  "메타버스에 대하여"
 toc: true
 toc_sticky: true
