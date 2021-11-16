@@ -1,16 +1,20 @@
 ---
-layout: single
+layout: "single"
 title:  "메타버스에 대하여"
+toc: true
+toc_sticky: true
+toc_label: "목차"
+categories: "문화/IT"
 ---
 
-## 가상세계 속 Second Life, 메타버스(Metaverse)
+### 가상세계 속 Second Life, 메타버스(Metaverse)
 ![metaverse_VR_person](/assets/images/meta1.PNG)
 여러분 메타버스를 아시나요?  
 메타버스란 가공, 추상을 의미하는 메타(Meta)와 현실 세계를 의미하는 유니버스(Universe)의 합성어로, VR(가상현실)에서 더 나아가 가상현실 속에서 현실과 같이 다른 사람들과 소통을
 하고 함께 노는 등 즐길 수 있는 공간이에요.  
 현실과는 또 따른 세계에서 즐기는 세커드 라이프! 생각만 해도 즐겁지 않나요? 오늘은 이와 관련된 영화를 하나 소개해 볼까 해요.
 ---
-##레디 플레이어 원
+###레디 플레이어 원
 ![Ready_Player_One][movie_poster]  
 [movie_poster]: http://blog.naver.com/storyphoto/viewer.jsp?src=https%3A%2F%2Fblogfiles.pstatic.net%2FMjAyMTA5MTlfMjUy%2FMDAxNjMxOTg3OTU0NTUx.3KOOO3FLoO8tJzD8WoltSRyrOQ9Pxqkh2ABraBdq3h0g.3OQJyhyTZvzQo_zTIh9pg8GVs9T7R1Lh3LDavAp6KVMg.JPEG.kijoon1018%2F3.jpg
 2045년 세상은 황폐화되고, 사람들은 메타버스인 '오아시스'를 안식처로 여기며 이곳에서의 생활을 통해 위로를 받으며 살아갑니다. 그런던 중 메타버스의 개발자 할리데이가 유언으로 이스터
