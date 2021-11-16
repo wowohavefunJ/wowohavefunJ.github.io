@@ -15,8 +15,6 @@ categories: "문화/IT"
 현실과는 또 따른 세계에서 즐기는 세커드 라이프! 생각만 해도 즐겁지 않나요? 오늘은 이와 관련된 영화를 하나 소개해 볼까 해요.
 ---
 ### 레디 플레이어 원
-![Ready_Player_One][movie_poster]  
-[movie_poster]: http://blog.naver.com/storyphoto/viewer.jsp    src=https%3A%2F%2Fblogfiles.pstatic.net%2FMjAyMTA5MTlfMjUy%2FMDAxNjMxOTg3OTU0NTUx.3KOOO3FLoO8tJzD8WoltSRyrOQ9Pxqkh2ABraBdq3h0g.3OQJyhyTZvzQo_zTIh9pg8GVs9T7R1Lh3LDavAp6KVMg.JPEG.kijoon1018%2F3.jpg
 2045년 세상은 황폐화되고, 사람들은 메타버스인 '오아시스'를 안식처로 여기며 이곳에서의 생활을 통해 위로를 받으며 살아갑니다. 그런던 중 메타버스의 개발자 할리데이가 유언으로 이스터
 에그를 찾은 사람에게 회사의 지분을 나눠주겠다 하고 죽자, 오아시스는 더 이상 오아시스가 아닌, 전쟁터가 되게 됩니다. 그러한 회사의 지분은 차지하기 위한 사람들의 투쟁을 보며 여러
 감정을 느꼈습니다. 인간성이란 무엇일까요? 그리고 과연 현실의 삶과 메타버스의 삶을 동일시할 수 있을까요?
